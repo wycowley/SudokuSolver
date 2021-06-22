@@ -1,6 +1,8 @@
 This is an automated version of sudoku.
 
-To make it start running, the user can either press space or press the button below.
+To run the program, run javac *.java and then java Runner in the correct terminal folder
+
+To make it start solving, the user can either press space or press the button below.
 If the user wants to edit the sudoku seen, they can delete numbers and change them as they please when the program is not solving.
 
 All the colors while solving mean specific things.
